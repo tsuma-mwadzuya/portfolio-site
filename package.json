@@ -1,0 +1,24 @@
+{
+  "name": "bloggin-site",
+  "version": "1.0.0",
+  "description": "Massively by HTML5 UP\r html5up.net | @ajlkn\r Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsuma-mwadzuya/portfolio-site.git"
+  },
+  "author": "tsuma-mwadzuya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsuma-mwadzuya/portfolio-site/issues"
+  },
+  "homepage": "https://github.com/tsuma-mwadzuya/portfolio-site#readme",
+  "dependencies": {
+    "express-fileupload": "^1.4.0",
+    "express.js": "^1.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
