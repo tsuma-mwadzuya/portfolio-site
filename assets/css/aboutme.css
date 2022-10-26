@@ -1,0 +1,17 @@
+.home__container {
+    gap: 1rem;
+}
+
+.home__content {
+    grid-template-columns: .5fr 3fr;
+    padding-top: 3.5rem;
+    align-items: center;
+}
+
+.home__blob {
+    width: 300px;
+}
+
+.home__blob-img {
+    width: 350px;
+}
